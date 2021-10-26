@@ -1,0 +1,135 @@
+* {
+	font-family: Ariel, Verdana, sans-serif;
+	color: lavenderblush;
+	text-align: center;
+}
+
+body {
+	width: 1050px;
+	margin: 0 auto;
+}
+
+nav {
+	background-color: darkgrey;
+	padding: 10px;
+	margin: 10px;
+}
+
+li {
+	display: inline;
+	padding: 5px;
+}
+
+h1 {
+	color: lightpink;
+}
+
+h2 {
+	color: lightpink;
+}
+
+h3 {
+	color: lightpink;
+}
+
+h4 {
+	color: lightpink;
+}
+
+h5 {
+	color: lightpink;
+}
+
+h6 {
+	color: lightpink;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+main {
+	background-color: darkgrey;
+	padding: 10px;
+	margin: 10px;
+}
+
+a:link {
+	color: lavenderblush;
+}
+
+a:hover {
+	color: lightpink;
+}
+
+a:active {
+	color: lightpink;
+}
+
+a:visited {
+	color: lightpink;
+}
+
+.articleHomepage {
+    color: lavenderblush;
+	background-color: darkgrey;
+	padding: 10px;
+	margin: 10px;
+	width:  310px;
+	height: 200px;
+	float: left;
+}
+
+.articleCakes {
+	background-color: darkgrey;
+	padding: 10px;
+	margin: 10px;
+	width: 475px;
+	height: 250px;
+	float: left;
+}
+
+.articleReviews {
+	background-color: darkgrey;
+	padding: 10px;
+	margin: 10px;
+	width: 475px;
+	height: 250px;
+	float: right;
+}
+
+.articleHalloweenCake {
+	background-color: darkgrey;
+	padding: 10px;
+	margin: 10px;
+	width: 475px;
+	height: 300px;
+	float: left;
+}
+
+.articleHalloweenCakeReview {
+	background-color: darkgrey;
+	padding: 10px;
+	margin: 10px;
+	width: 475px;
+	height: 300px;
+	float: right;
+}
+
+article {
+	background-color: darkgrey;
+	padding: 10px;
+	margin: 10px;
+	width: 1010px;
+	height: auto;
+}
+
+footer {
+	background-color: darkgrey;
+	padding: 10px;
+	margin: 10px;
+	width: 1010px;
+	height: 50px;
+}
+
