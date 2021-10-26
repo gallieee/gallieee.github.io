@@ -1,5 +1,5 @@
 * {
-	font-family: Ariel, Verdana, sans-serif;
+	font-family: Verdana, sans-serif;
 	color: lavenderblush;
 	text-align: center;
 }
@@ -10,7 +10,7 @@ body {
 }
 
 nav {
-	background-color: darkgrey;
+	background-color: #919191;
 	padding: 10px;
 	margin: 10px;
 }
@@ -22,26 +22,19 @@ li {
 
 h1 {
 	color: lightpink;
+	font-family: Georgia, serif;
+	font-size: 50px;
 }
 
 h2 {
 	color: lightpink;
+	font-family: Georgia, serif;
+	font-size: 30px;
 }
 
 h3 {
 	color: lightpink;
-}
-
-h4 {
-	color: lightpink;
-}
-
-h5 {
-	color: lightpink;
-}
-
-h6 {
-	color: lightpink;
+	font-family: Georgia, serif;
 }
 
 section {
@@ -50,7 +43,7 @@ section {
 }
 
 main {
-	background-color: darkgrey;
+	background-color: #919191;
 	padding: 10px;
 	margin: 10px;
 }
@@ -73,7 +66,7 @@ a:visited {
 
 .articleHomepage {
     color: lavenderblush;
-	background-color: darkgrey;
+	background-color: #919191;
 	padding: 10px;
 	margin: 10px;
 	width:  310px;
@@ -81,8 +74,8 @@ a:visited {
 	float: left;
 }
 
-.articleCakes {
-	background-color: darkgrey;
+.articleLeft {
+	background-color: #919191;
 	padding: 10px;
 	margin: 10px;
 	width: 475px;
@@ -90,8 +83,8 @@ a:visited {
 	float: left;
 }
 
-.articleReviews {
-	background-color: darkgrey;
+.articleRight {
+	background-color: #919191;
 	padding: 10px;
 	margin: 10px;
 	width: 475px;
@@ -99,8 +92,8 @@ a:visited {
 	float: right;
 }
 
-.articleHalloweenCake {
-	background-color: darkgrey;
+.articleLeftLong {
+	background-color: #919191;
 	padding: 10px;
 	margin: 10px;
 	width: 475px;
@@ -108,8 +101,8 @@ a:visited {
 	float: left;
 }
 
-.articleHalloweenCakeReview {
-	background-color: darkgrey;
+.articleRightLong {
+	background-color: #919191;
 	padding: 10px;
 	margin: 10px;
 	width: 475px;
@@ -118,15 +111,24 @@ a:visited {
 }
 
 article {
-	background-color: darkgrey;
+	background-color: #919191;
 	padding: 10px;
 	margin: 10px;
 	width: 1010px;
 	height: auto;
 }
 
+dt {
+	font-size: 20px;
+	font-weight:bold;
+}
+
+dd {
+	font-style: italic;
+}
+
 footer {
-	background-color: darkgrey;
+	background-color: #919191;
 	padding: 10px;
 	margin: 10px;
 	width: 1010px;
