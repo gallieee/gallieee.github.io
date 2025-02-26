@@ -1,0 +1,35 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    color: #002135;
+    padding: 5px;
+    margin: 5px;
+}
+
+nav {
+    background-color: #ced8f1;
+    margin: 0 auto;
+    text-align: center
+}
+
+header {
+    background-color: #2a3754;
+    text-align: center;
+}
+
+main {
+    background-color: #ced8f1;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #ced8f1;
+    font-family: Georgia, serif;
+    font-size: 100px;
+}
+
+h2 {
+    color: #2a3754;
+    font-family: Georgia, serif;
+    font-size: 50px;
+}
